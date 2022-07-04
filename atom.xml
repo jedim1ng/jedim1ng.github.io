@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jedim1ng.github.io</id>
+    <title>JediMing&apos;s blog</title>
+    <updated>2022-07-04T14:06:25.162Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jedim1ng.github.io"/>
+    <link rel="self" href="https://jedim1ng.github.io/atom.xml"/>
+    <subtitle>May the force be with you.</subtitle>
+    <logo>https://jedim1ng.github.io/images/avatar.png</logo>
+    <icon>https://jedim1ng.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, JediMing&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[有一个人只会哇哇大哭！！！！！！]]></title>
+        <id>https://jedim1ng.github.io/post/QH62StzQk/</id>
+        <link href="https://jedim1ng.github.io/post/QH62StzQk/">
+        </link>
+        <updated>2022-07-04T14:01:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于python的最好大学排名]]></title>
+        <id>https://jedim1ng.github.io/post/emc1LRoPE/</id>
+        <link href="https://jedim1ng.github.io/post/emc1LRoPE/">
+        </link>
+        <updated>2022-04-29T06:41:58.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于保险业的财务储备管理案例分析]]></title>
+        <id>https://jedim1ng.github.io/post/guan-yu-bao-xian-ye-de-cai-wu-chu-bei-guan-li-an-li-fen-xi/</id>
+        <link href="https://jedim1ng.github.io/post/guan-yu-bao-xian-ye-de-cai-wu-chu-bei-guan-li-an-li-fen-xi/">
+        </link>
+        <updated>2022-04-27T04:53:55.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="案例"><strong>案例：</strong></h1>
+<p>Improving Financial Reserve Management in the Insurance Industry (Microsoft, 2019)<br>
+选自：Data and Business Intelligence Systems for Competitive Advantage: prospects, challenges, and real-world applications (redalyc.org)<br>
+<a href="https://www.redalyc.org/journal/5718/571861494009/571861494009.pdf">原文链接</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="案例"><strong>案例：</strong></h1>
+<p>Improving Financial Reserve Management in the Insurance Industry (Microsoft, 2019)<br>
+选自：Data and Business Intelligence Systems for Competitive Advantage: prospects, challenges, and real-world applications (redalyc.org)<br>
+<a href="https://www.redalyc.org/journal/5718/571861494009/571861494009.pdf">原文链接</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼与微软的专利对比分析报告]]></title>
+        <id>https://jedim1ng.github.io/post/suo-ni-yu-wei-ruan-de-zhuan-li-dui-bi-fen-xi-bao-gao/</id>
+        <link href="https://jedim1ng.github.io/post/suo-ni-yu-wei-ruan-de-zhuan-li-dui-bi-fen-xi-bao-gao/">
+        </link>
+        <updated>2022-04-26T10:53:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一条博客给多多！]]></title>
+        <id>https://jedim1ng.github.io/post/di-yi-pian-ji-lu-duo-duo/</id>
+        <link href="https://jedim1ng.github.io/post/di-yi-pian-ji-lu-duo-duo/">
+        </link>
+        <updated>2022-04-26T08:59:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>😁🤓</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😁🤓</p>
+]]></content>
+    </entry>
+</feed>
